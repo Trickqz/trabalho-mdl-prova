@@ -65,7 +65,7 @@ Representa um empréstimo concedido pelo banco.
 ## Diagramas
 
 ### Diagrama ER Completo
-![Diagrama ER](img/modeloconceitual.jpg)
+![Diagrama ER](img/modeloconceitual.png)
 
 ### Diagrama Relacional
 ![Diagrama Relacional](img/modelorelacional.png)
