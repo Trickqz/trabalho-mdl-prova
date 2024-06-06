@@ -9,7 +9,6 @@ Este projeto visa desenvolver e implementar um banco de dados robusto para um si
 O projeto está dividido nas seguintes seções:
 
 1. **Modelo Conceitual**: 
-   - Diagrama Entidade-Relacionamento (ER)
    - Descrição das entidades e seus atributos
    - Relacionamentos entre entidades
 
