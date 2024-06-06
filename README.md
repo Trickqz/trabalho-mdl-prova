@@ -69,3 +69,5 @@ Representa um empréstimo concedido pelo banco.
 
 ### Diagrama Relacional
 ![Diagrama Relacional](img/modelorelacional.png)
+
+- [Emprestimos.xlsx](https://github.com/Trickqz/trabalho-mdl-prova/raw/main/arquivos/Sistema_Bancario.xlsx)
