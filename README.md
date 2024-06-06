@@ -70,4 +70,5 @@ Representa um empréstimo concedido pelo banco.
 ### Diagrama Relacional
 ![Diagrama Relacional](img/modelorelacional.png)
 
-- [Emprestimos.xlsx](https://github.com/Trickqz/trabalho-mdl-prova/raw/main/arquivos/Sistema_Bancario.xlsx)
+- [Sistema Bancario em Excel](https://github.com/Trickqz/trabalho-mdl-prova/raw/main/arquivos/Sistema_Bancario.xlsx)
+- [Sistema Bancario no PowerBI](https://github.com/Trickqz/trabalho-mdl-prova/raw/main/arquivos/Sistema_Bancario.pbix)
